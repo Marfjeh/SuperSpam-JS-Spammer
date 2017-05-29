@@ -9,6 +9,10 @@ Make sure you have Visual Studio 2015 or higher installed.
 
 Make sure you have Visual C++ 2013 installed.
 
+Make sure you have .net 4.5.2 or higher installed, the project uses .net 4.5.2 so any windows supports 4.5.2 is able to run it.
+
+Have DirectX11 or better GPU... (because of the chrome engine needs DX11...)
+
 Have a 64x CPU and OS...
 
 then load the .sln in visualstudio, then press the play button. then it should compile and run.
